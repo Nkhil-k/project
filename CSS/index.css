@@ -1,0 +1,21 @@
+#one{
+    background-color: #9cea99;
+    border-radius: 40%;
+    border-width: 0cap;
+    margin: 5px;
+    padding: 5px;
+}
+
+#two{
+    border-radius: 10%;
+    width: 40%;
+    align-items: center;
+}
+
+#three{
+    background-color: #9ce69a;
+    border-width:0cap;
+    border-radius: 40%;
+    margin: 5px;
+    padding: 5px;
+}
